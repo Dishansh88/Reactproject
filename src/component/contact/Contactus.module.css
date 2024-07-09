@@ -1,0 +1,11 @@
+.contactusbox
+{
+    max-width: 980px;
+    margin: auto;
+    height: 150px;
+
+}
+
+.contactusbox p{
+    font-family: pop;
+}
